@@ -7,6 +7,6 @@ El sitio cuenta con cosas basicas de la web de hoy en dia como librerias externa
 
 **Screenshots del proyecto.**
 
-[screenshots del proyecto](/screenshots/scr1.gif)
+![screenshots del proyecto](/screenshots/scr1.gif)
                  
-[screenshots del proyecto](/screenshots/scr2.gif)
+![screenshots del proyecto](/screenshots/scr2.gif)
