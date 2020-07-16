@@ -7,6 +7,10 @@ El sitio cuenta con cosas basicas de la web de hoy en dia como librerias externa
 
 **Screenshots del proyecto.**
 
+Version de escritorio:
+
 ![screenshots del proyecto](/screenshots/scr1.gif)
-                 
+
+Version movil:
+
 ![screenshots del proyecto](/screenshots/scr2.gif)
